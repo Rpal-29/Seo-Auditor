@@ -11,7 +11,7 @@ import socket
 from urllib.parse import urlparse
 
 # Google PageSpeed API Key
-API_KEY = "AIzaSyDXuI7_4uODLDlNnyh2nsDQBpeen6yUIfQ"
+API_KEY = os.getenv("Google_ApI_key")
 
 # --- UI Styling ---
 st.set_page_config(page_title="Technical SEO Audit Tool", layout="wide", initial_sidebar_state="collapsed")
