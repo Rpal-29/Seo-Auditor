@@ -1,7 +1,7 @@
 # 🔍 SEO Auditor Tool
 
 **SEO Auditor** is a powerful tool for analyzing websites and identifying key SEO metrics and issues. Designed for developers, digital marketers, and SEO professionals, this tool provides both **basic** and **Intermediate** SEO audits using a modern Python-based tech stack framework **Streamlit**.
-
+![image alt](https://github.com/Rpal-29/Seo-Auditor/blob/c6f89444923572d1dc4d99b9626077c10be1ad52/Seo_Dashboard.png)
 ---
 
 ## 🚀 Features
